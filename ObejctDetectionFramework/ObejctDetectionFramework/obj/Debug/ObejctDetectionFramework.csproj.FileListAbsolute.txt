@@ -1,0 +1,64 @@
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\ObejctDetectionFramework.exe.config
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\ObejctDetectionFramework.exe
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\ObejctDetectionFramework.pdb
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.CPlusPlus.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Gpu.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.MachineLearning.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csprojResolveAssemblyReference.cache
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.Form1.resources
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.Properties.Resources.resources
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csproj.GenerateResource.cache
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csproj.CoreCompileInputs.cache
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csproj.CopyComplete
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.exe
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.pdb
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\dll\x86\opencv_ffmpeg341.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\dll\x64\opencv_ffmpeg341_64.dll
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.pdb
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.xml
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\Nydan\source\repos\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharpExtern.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\dll\x86\opencv_ffmpeg341.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\dll\x64\opencv_ffmpeg341_64.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\ObejctDetectionFramework.exe.config
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\ObejctDetectionFramework.exe
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\ObejctDetectionFramework.pdb
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Blob.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.CPlusPlus.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Gpu.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.MachineLearning.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.pdb
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.xml
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Blob.pdb
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Blob.xml
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Extensions.pdb
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Extensions.xml
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.UserInterface.pdb
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.UserInterface.xml
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csprojResolveAssemblyReference.cache
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.Form1.resources
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.Properties.Resources.resources
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csproj.GenerateResource.cache
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csproj.CoreCompileInputs.cache
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csproj.CopyComplete
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.exe
+D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.pdb
