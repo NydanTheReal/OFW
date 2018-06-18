@@ -62,3 +62,35 @@ D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\obj\
 D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csproj.CopyComplete
 D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.exe
 D:\Google Drive\Programok\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.pdb
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharpExtern.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\dll\x86\opencv_ffmpeg341.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\dll\x64\opencv_ffmpeg341_64.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\ObejctDetectionFramework.exe.config
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\ObejctDetectionFramework.exe
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\ObejctDetectionFramework.pdb
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Blob.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.CPlusPlus.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Extensions.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Gpu.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.MachineLearning.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.UserInterface.dll
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.pdb
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.xml
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Blob.pdb
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Blob.xml
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Extensions.pdb
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.Extensions.xml
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.UserInterface.pdb
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\bin\Debug\OpenCvSharp.UserInterface.xml
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csprojResolveAssemblyReference.cache
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.Form1.resources
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.Properties.Resources.resources
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csproj.GenerateResource.cache
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csproj.CoreCompileInputs.cache
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.csproj.CopyComplete
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.exe
+d:\OFW\OFW\ObejctDetectionFramework\ObejctDetectionFramework\obj\Debug\ObejctDetectionFramework.pdb

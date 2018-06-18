@@ -50,8 +50,16 @@
             this.chbRaw = new System.Windows.Forms.CheckBox();
             this.chbHSV = new System.Windows.Forms.CheckBox();
             this.chbEdited = new System.Windows.Forms.CheckBox();
+            this.lblPar2 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.trcPar2 = new System.Windows.Forms.TrackBar();
+            this.lblPar1 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.trcPar1 = new System.Windows.Forms.TrackBar();
             ((System.ComponentModel.ISupportInitialize)(this.trcMin)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trcMax)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trcPar2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trcPar1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -128,7 +136,7 @@
             // 
             // btnWindows
             // 
-            this.btnWindows.Location = new System.Drawing.Point(12, 141);
+            this.btnWindows.Location = new System.Drawing.Point(12, 202);
             this.btnWindows.Name = "btnWindows";
             this.btnWindows.Size = new System.Drawing.Size(107, 23);
             this.btnWindows.TabIndex = 8;
@@ -138,7 +146,7 @@
             // 
             // btnLoop
             // 
-            this.btnLoop.Location = new System.Drawing.Point(12, 169);
+            this.btnLoop.Location = new System.Drawing.Point(12, 230);
             this.btnLoop.Name = "btnLoop";
             this.btnLoop.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.btnLoop.Size = new System.Drawing.Size(75, 23);
@@ -149,7 +157,7 @@
             // 
             // btnEnd
             // 
-            this.btnEnd.Location = new System.Drawing.Point(12, 198);
+            this.btnEnd.Location = new System.Drawing.Point(12, 259);
             this.btnEnd.Name = "btnEnd";
             this.btnEnd.Size = new System.Drawing.Size(75, 23);
             this.btnEnd.TabIndex = 10;
@@ -160,7 +168,7 @@
             // lstCircles
             // 
             this.lstCircles.FormattingEnabled = true;
-            this.lstCircles.Location = new System.Drawing.Point(12, 239);
+            this.lstCircles.Location = new System.Drawing.Point(12, 300);
             this.lstCircles.Name = "lstCircles";
             this.lstCircles.Size = new System.Drawing.Size(208, 95);
             this.lstCircles.TabIndex = 11;
@@ -238,7 +246,7 @@
             // chbRaw
             // 
             this.chbRaw.AutoSize = true;
-            this.chbRaw.Location = new System.Drawing.Point(13, 91);
+            this.chbRaw.Location = new System.Drawing.Point(13, 152);
             this.chbRaw.Name = "chbRaw";
             this.chbRaw.Size = new System.Drawing.Size(48, 17);
             this.chbRaw.TabIndex = 19;
@@ -250,7 +258,7 @@
             this.chbHSV.AutoSize = true;
             this.chbHSV.Checked = true;
             this.chbHSV.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.chbHSV.Location = new System.Drawing.Point(98, 91);
+            this.chbHSV.Location = new System.Drawing.Point(98, 152);
             this.chbHSV.Name = "chbHSV";
             this.chbHSV.Size = new System.Drawing.Size(48, 17);
             this.chbHSV.TabIndex = 20;
@@ -262,18 +270,85 @@
             this.chbEdited.AutoSize = true;
             this.chbEdited.Checked = true;
             this.chbEdited.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.chbEdited.Location = new System.Drawing.Point(13, 112);
+            this.chbEdited.Location = new System.Drawing.Point(13, 173);
             this.chbEdited.Name = "chbEdited";
             this.chbEdited.Size = new System.Drawing.Size(56, 17);
             this.chbEdited.TabIndex = 21;
             this.chbEdited.Text = "Edited";
             this.chbEdited.UseVisualStyleBackColor = true;
             // 
+            // lblPar2
+            // 
+            this.lblPar2.AutoSize = true;
+            this.lblPar2.Location = new System.Drawing.Point(181, 124);
+            this.lblPar2.Name = "lblPar2";
+            this.lblPar2.Size = new System.Drawing.Size(19, 13);
+            this.lblPar2.TabIndex = 27;
+            this.lblPar2.Text = "35";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Cursor = System.Windows.Forms.Cursors.Default;
+            this.label7.Location = new System.Drawing.Point(9, 125);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(64, 13);
+            this.label7.TabIndex = 26;
+            this.label7.Text = "Parameter2:";
+            // 
+            // trcPar2
+            // 
+            this.trcPar2.AutoSize = false;
+            this.trcPar2.Location = new System.Drawing.Point(70, 118);
+            this.trcPar2.Maximum = 100;
+            this.trcPar2.Name = "trcPar2";
+            this.trcPar2.Size = new System.Drawing.Size(104, 35);
+            this.trcPar2.TabIndex = 25;
+            this.trcPar2.TickStyle = System.Windows.Forms.TickStyle.None;
+            this.trcPar2.Value = 35;
+            this.trcPar2.Scroll += new System.EventHandler(this.trcPar2_Scroll);
+            // 
+            // lblPar1
+            // 
+            this.lblPar1.AutoSize = true;
+            this.lblPar1.Location = new System.Drawing.Point(181, 93);
+            this.lblPar1.Name = "lblPar1";
+            this.lblPar1.Size = new System.Drawing.Size(25, 13);
+            this.lblPar1.TabIndex = 24;
+            this.lblPar1.Text = "100";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(9, 94);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(64, 13);
+            this.label9.TabIndex = 23;
+            this.label9.Text = "Parameter1:";
+            // 
+            // trcPar1
+            // 
+            this.trcPar1.AutoSize = false;
+            this.trcPar1.Location = new System.Drawing.Point(70, 87);
+            this.trcPar1.Maximum = 100;
+            this.trcPar1.Name = "trcPar1";
+            this.trcPar1.Size = new System.Drawing.Size(104, 35);
+            this.trcPar1.TabIndex = 22;
+            this.trcPar1.TickStyle = System.Windows.Forms.TickStyle.None;
+            this.trcPar1.Value = 100;
+            this.trcPar1.Scroll += new System.EventHandler(this.trcPar1_Scroll);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(513, 356);
+            this.ClientSize = new System.Drawing.Size(513, 409);
+            this.Controls.Add(this.lblPar2);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.trcPar2);
+            this.Controls.Add(this.lblPar1);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.trcPar1);
             this.Controls.Add(this.chbEdited);
             this.Controls.Add(this.chbHSV);
             this.Controls.Add(this.chbRaw);
@@ -300,6 +375,8 @@
             this.Text = "Object Detection";
             ((System.ComponentModel.ISupportInitialize)(this.trcMin)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.trcMax)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trcPar2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.trcPar1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -329,6 +406,12 @@
         private System.Windows.Forms.CheckBox chbRaw;
         private System.Windows.Forms.CheckBox chbHSV;
         private System.Windows.Forms.CheckBox chbEdited;
+        private System.Windows.Forms.Label lblPar2;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TrackBar trcPar2;
+        private System.Windows.Forms.Label lblPar1;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.TrackBar trcPar1;
     }
 }
 

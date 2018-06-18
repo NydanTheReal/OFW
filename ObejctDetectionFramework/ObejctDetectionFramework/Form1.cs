@@ -84,7 +84,7 @@ namespace ObejctDetectionFramework
                     cv.loop();
                     sendData = cv.SendData;
 
-                    for (int i = 0; i < cv.Circ.Length; i++)
+                    /*for (int i = 0; i < cv.Circ.Length; i++)
                     {
                         lstCircles.BeginInvoke(new Action(() =>
                         {
@@ -92,7 +92,7 @@ namespace ObejctDetectionFramework
                            // if(y < cv.Circ.Length) lstCircles.Items.Add("Circle " + y + " X:" + cv.Circ[y].Center.X + " Y:" + cv.Circ[y].Center.Y);
                         }));
                     }
-                    Thread.Sleep(10);
+                    Thread.Sleep(10);*/
                 }
             });
         }
@@ -112,6 +112,18 @@ namespace ObejctDetectionFramework
         {
             lblMax.Text = trcMax.Value.ToString();
             cv.MaxRad = trcMax.Value;
+        }
+
+        private void trcPar1_Scroll(object sender, EventArgs e)
+        {
+            lblPar1.Text = trcPar1.Value.ToString();
+            cv.Par1 = trcPar1.Value;
+        }
+
+        private void trcPar2_Scroll(object sender, EventArgs e)
+        {
+            lblPar2.Text = trcPar2.Value.ToString();
+            cv.Par2 = trcPar2.Value;
         }
     }
 }

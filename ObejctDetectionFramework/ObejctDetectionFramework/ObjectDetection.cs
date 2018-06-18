@@ -39,11 +39,15 @@ namespace ObejctDetectionFramework
         Mat frame4;
         int minRad;
         int maxRad;
+        int par1;
+        int par2;
 
         public string SendData { get => sendData; set => sendData = value; }
         public CircleSegment[] Circ { get => circ; set => circ = value; }
         public int MinRad { get => minRad; set => minRad = value; }
         public int MaxRad { get => maxRad; set => maxRad = value; }
+        public int Par1 { get => par1; set => par1 = value; }
+        public int Par2 { get => par2; set => par2 = value; }
 
         public ObjectDetection()
         {
@@ -101,7 +105,7 @@ namespace ObejctDetectionFramework
                 Cv2.ImShow("edited", frame3);
                 try
                 {
-                    Circ = Cv2.HoughCircles(frame3, HoughMethods.Gradient, 1, frame3.Rows / 16, 100, 30, minRad, maxRad);
+                    Circ = Cv2.HoughCircles(frame3, HoughMethods.Gradient, 1, frame3.Rows / 16, par1, par2, minRad, maxRad);
 
                     if (Circ.Length > 0 && Circ != null)
                     {
